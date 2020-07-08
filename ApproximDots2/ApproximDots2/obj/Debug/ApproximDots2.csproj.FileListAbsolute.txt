@@ -1,0 +1,9 @@
+C:\Studio projects\ApproximDots2\ApproximDots2\bin\Debug\ApproximDots2.exe.config
+C:\Studio projects\ApproximDots2\ApproximDots2\bin\Debug\ApproximDots2.exe
+C:\Studio projects\ApproximDots2\ApproximDots2\bin\Debug\ApproximDots2.pdb
+C:\Studio projects\ApproximDots2\ApproximDots2\obj\Debug\ApproximDots2.csprojResolveAssemblyReference.cache
+C:\Studio projects\ApproximDots2\ApproximDots2\obj\Debug\ApproximDots2.Form1.resources
+C:\Studio projects\ApproximDots2\ApproximDots2\obj\Debug\ApproximDots2.Properties.Resources.resources
+C:\Studio projects\ApproximDots2\ApproximDots2\obj\Debug\ApproximDots2.csproj.GenerateResource.Cache
+C:\Studio projects\ApproximDots2\ApproximDots2\obj\Debug\ApproximDots2.exe
+C:\Studio projects\ApproximDots2\ApproximDots2\obj\Debug\ApproximDots2.pdb
